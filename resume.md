@@ -1,12 +1,15 @@
 # Joshua Kellogg
 
 [kellogg.20.joshua@gmail.com](mailto:kellogg.20.joshua@gmail.com) | (720) 441-8268 | Aurora, Colorado
+
 [LinkedIn](https://www.linkedin.com/in/joshua-kellogg-a55402294/) | [GitHub](https://github.com/jkellogg01)
 
 ## Summary
 
 Entry-level back-end developer seeking opportunities for growth within the field of web development.
+
 Seeking remote or in-person roles; willing to relocate.
+
 Recognized by colleagues for:
 - Effective communication
 - Attention to detail
@@ -21,6 +24,7 @@ Front End
 - AJAX
 - Bootstrap
 - JQuery
+
 Back End
 - Node.JS
 - Express.JS
@@ -47,15 +51,11 @@ Dev Row Records | [Repository](https://github.com/PRich57/dev-row-records) | [De
 
 ## Professional Experience
 
-Denver, Colorado - August 2023 - Present
-Barista
-Ink! Coffee
+Denver, Colorado | August 2023 - Present | Barista | Ink! Coffee
 - Responsibilities:
   - Thinking creatively and communicating effectively in order to optimize the process of maintaining customer satisfaction by meeting their needs in a timely manner.
 
-Denver, Colorado - March 2022 - August 2023
-Sales Associate
-Vans
+Denver, Colorado - March 2022 - August 2023 | Sales Associate | Vans
 - Responsibilities:
   - Communicating effectively with customers and team members in order to understand and exceed customer expectations.
 - Reason for departure:
@@ -64,6 +64,7 @@ Vans
 ## Education
 
 Bootcamp: full-stack flex, University of Denver
+
 Expected to graduate in November of 2023
 
 High School: Cherokee Trail High School
