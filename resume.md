@@ -33,7 +33,6 @@ Back End
 - Sequelize
 - Handlebars
 - Java
-- Go
 
 ## Projects
 
