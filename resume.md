@@ -33,6 +33,15 @@ Recognized by colleagues for:
 - Description:
   - Dev Row Records is a fictional record label website, built as a proof of concept.
 
+### Snif | [Repository](https://github.com/nlad218/dog-dating-app) | [Deployed](https://stormy-mesa-49272-df30e734d644.herokuapp.com/)
+
+- Role:
+  - React UI Design
+  - Data rendering on chat page
+  - GraphQL integration
+- Description:
+  - Snif is a web-based full stack dating app for dogs.
+
 ## Skills
 
 ### Front End
@@ -44,6 +53,7 @@ Recognized by colleagues for:
 - JQuery
 - React
 - Tailwind CSS
+- DaisyUI
 - HTMX
 
 ### Back End
