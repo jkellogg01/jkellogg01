@@ -1,74 +1,58 @@
 # Joshua Kellogg
 
-[kellogg.20.joshua@gmail.com](mailto:kellogg.20.joshua@gmail.com) | (720) 441-8268 | Aurora, Colorado
+Full-Stack Software Developer
 
-[LinkedIn](https://www.linkedin.com/in/joshua-kellogg-a55402294/) | [GitHub](https://github.com/jkellogg01)
+[GITHUB](https://www.github.com/jkellogg01) | [LINKEDIN](https://www.linkedin.com/in/jkellogg-dev/)
 
-## Summary
+## Education
 
-Entry-level full-stack web developer seeking opportunities for growth.
+**University of Denver** - _Full-Stack Development Certification_
 
-Seeking remote or in-person roles; willing to relocate.
-
-Recognized by colleagues for:
-- Effective communication
-- Attention to detail
-- Positive outlook
+An intensive 12-week program focused on the skills required to become an
+effective full-stack web developer, including creating and consuming APIs,
+utilizing a variety of database technologies, and front-end development in react.
 
 ## Projects
 
-### Menu Match | [Repository](https://github.com/jkellogg01/menu-match) | [Deployed](https://jkellogg01.github.io/menu-match/)
+These are brief overviews of a small selection of projects. For a larger and
+more recent selection & much greater depth, visit my GitHub account.
 
-- Role: 
-  - REST API integration
-  - Client-side rendering functionality
-- Description:
-  - Menu match is a front-end app for recipe aggregation & party planning.
+**Full-Stack Dating App** - _Snif_
 
-### Dev Row Records | [Repository](https://github.com/PRich57/dev-row-records) | [Deployed](https://dev-row-records-63d750921ea0.herokuapp.com/)
+Snif is a web-based full-stack dating app focused on connecting dogs & their
+owners with new experiences.
 
-- Role:
-  - Management of RESTful back-end API routing
-  - Database integration and manipulation
-- Description:
-  - Dev Row Records is a fictional record label website, built as a proof of concept.
+**CLI Weather Client** - _Sunny_
 
-### Snif | [Repository](https://github.com/nlad218/dog-dating-app) | [Deployed](https://stormy-mesa-49272-df30e734d644.herokuapp.com/)
+Sunny is a CLI app that uses third-party APIs to aggregate and present location
+and weather data in the comfort of the terminal.
 
-- Role:
-  - React UI Design
-  - Data rendering on chat page
-  - GraphQL integration
-- Description:
-  - Snif is a web-based full stack dating app for dogs.
+**Recipe Aggregator** - _Menu Match_
+
+Menu Match is an easy-to-use service that assists in recipe aggregation and
+suggestions, shopping list generation, and more.
 
 ## Skills
 
-### Front End
-- HTML
-- CSS
-- JavaScript
-- AJAX
-- Bootstrap
-- JQuery
-- React
-- Tailwind CSS
-- DaisyUI
-- HTMX
+Languages:
 
-### Back End
-- Node.JS
-- Express.JS
-- MySQL
-- Relational Databases
-- Sequelize
-- Handlebars
-- Java
+- Typescript
 - Go
-- MongoDB
-- NoSQL
-- REST
+- Rust
 
-Other
+Front-end Technologies:
+
+- React
+- Next
+- Tailwind
+
+API Technologies:
+
+- REST
 - GraphQL
-- Agile
+
+Database Technologies:
+
+- MySQL
+- PostgresQL
+- MongoDB
