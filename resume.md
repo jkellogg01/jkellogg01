@@ -17,6 +17,14 @@ utilizing a variety of database technologies, and front-end development in react
 These are brief overviews of a small selection of projects. For a larger and
 more recent selection & much greater depth, visit my GitHub account.
 
+(Active Development) **Configuration Manager** - [_Dotstash_](https://github.com/jkellogg01/dotstash)
+
+Dotstash is a CLI tool for managing and sharing configuration files, specifically on 
+UNIX-based systems.
+
+Dotstash is nearing version `0.1.0`, with a long tail of future development plans
+including a TUI and a web-based registry for browsing other perople's configurations.
+
 **Full-Stack Dating App** - _Snif_
 
 Snif is a web-based full-stack dating app focused on connecting dogs & their
@@ -34,11 +42,17 @@ suggestions, shopping list generation, and more.
 
 ## Skills
 
-Languages:
+General Purpose Languages:
 
-- Typescript
+- Typescript/Javascript
 - Go
-- Rust
+- C
+
+Other Languages:
+
+- HTML
+- CSS
+- SQL
 
 Front-end Technologies:
 
