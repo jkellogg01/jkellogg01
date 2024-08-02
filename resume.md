@@ -48,7 +48,7 @@ General Purpose Languages:
 - Go
 - C
 
-Other Languages:
+Domain-Specific Languages:
 
 - HTML
 - CSS
